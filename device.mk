@@ -151,12 +151,7 @@ PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager \
     RcsService \
     PresencePolling
-
-# RealmeParts
-PRODUCT_PACKAGES += \
-    RealmeParts \
-	parts.rc
-
+    
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(DEVICE_PATH)
