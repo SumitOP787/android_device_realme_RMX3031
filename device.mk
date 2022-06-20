@@ -169,10 +169,6 @@ PRODUCT_PACKAGES += \
     TetheringConfigOverlay \
     WifiOverlay
 
-# CameraGo
-PRODUCT_PACKAGES += \
-    CameraGo
-
 # ViperFX
 PRODUCT_PACKAGES += \
     ViperFX
